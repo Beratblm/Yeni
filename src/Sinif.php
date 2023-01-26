@@ -1,6 +1,6 @@
 <?php 
 
-namespace paketim\paketismim
+namespace deneme\denemeismim
   
  use Illuminate\Database\Eloquent\Model
   
